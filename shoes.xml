@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shoes>
+    <shoe>Under Armour</shoe>
+    <model>Curry 9</model>
+    <colorway>Sesame Street Elmo</colorway>
+    <sizes>
+      <size>8</size>
+      <size>9</size>
+      <size>10</size>
+      <size>11</size>
+    </sizes>
+
+    <shoe>Nike</shoe>
+    <model>LeBron 20</model>
+    <colorway>Violet Frost/Purple Pulse/Canyon Purple/Metallic Gold</colorway>
+    <sizes>
+      <size>8</size>
+      <size>9</size>
+      <size>10</size>
+      <size>11</size>
+    </sizes>
+
+    <shoe>Adidas</shoe>
+    <model>Harden Vol. 5</model>
+    <colorway>Team Power Red/Team Maroon/Solar Red</colorway>
+    <sizes>
+      <size>8</size>
+      <size>9</size>
+      <size>10</size>
+      <size>11</size>
+    </sizes>
+
+    <shoe>Li-Ning</shoe>
+    <model>Way of Wade 10</model>
+    <colorway>Blossom</colorway>
+    <sizes>
+      <size>8</size>
+      <size>9</size>
+      <size>10</size>
+      <size>11</size>
+    </sizes>
+
+    <shoe>New Balance</shoe>
+    <model>Kawhi 2</model>
+    <colorway>Gray Mist/Pale gold</colorway>
+    <sizes>
+      <size>8</size>
+      <size>9</size>
+      <size>10</size>
+      <size>11</size>
+    </sizes>
+</shoes>
